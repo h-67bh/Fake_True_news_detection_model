@@ -1,0 +1,10 @@
+This project uses a modified version of the “Misinformation & Fake News text dataset 79k” originally under LGPL v3.
+
+Modifications made:
+- Removed "serial number" column
+- Added "label" column for classification
+
+This dataset is distributed under the GNU Lesser General Public License version 3, the same as the original.
+
+Modifications:
+2025-07-23, Hrithik Bhardwaj: Removed index column; added label column.
