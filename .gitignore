@@ -1,17 +1,10 @@
 __pycache__/
 *.pyc
+.venv/
+venv/
 .env
 .DS_Store
-
-# Google keys
-*.json
+Datasets/*.csv
 keys/
-
-# Large models
-*.bin
-*.pt
-*.pth
-*.ckpt
-
-# Streamlit
-.streamlit/
+*.json
+obs_log.jsonl
