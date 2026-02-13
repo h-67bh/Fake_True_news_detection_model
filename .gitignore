@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Google keys
+*.json
+keys/
+
+# Large models
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Streamlit
+.streamlit/
