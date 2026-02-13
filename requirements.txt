@@ -1,7 +1,7 @@
 streamlit==1.32.2
 numpy
 pandas
-torch==2.2.2
+torch==2.10.0
 transformers
 sentence-transformers
 scikit-learn
